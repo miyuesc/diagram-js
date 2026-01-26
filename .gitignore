@@ -8,3 +8,4 @@ lib/**/*.d.ts
 .DS_Store
 .*.swp
 .*.swo
+/docs/.vitepress/cache
